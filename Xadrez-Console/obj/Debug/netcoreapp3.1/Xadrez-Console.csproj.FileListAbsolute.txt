@@ -1,0 +1,13 @@
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/bin/Debug/netcoreapp3.1/Xadrez-Console
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/bin/Debug/netcoreapp3.1/Xadrez-Console.deps.json
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/bin/Debug/netcoreapp3.1/Xadrez-Console.runtimeconfig.json
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/bin/Debug/netcoreapp3.1/Xadrez-Console.runtimeconfig.dev.json
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/bin/Debug/netcoreapp3.1/Xadrez-Console.dll
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/bin/Debug/netcoreapp3.1/Xadrez-Console.pdb
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/obj/Debug/netcoreapp3.1/Xadrez-Console.csprojAssemblyReference.cache
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/obj/Debug/netcoreapp3.1/Xadrez-Console.csproj.CoreCompileInputs.cache
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/obj/Debug/netcoreapp3.1/Xadrez-Console.AssemblyInfoInputs.cache
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/obj/Debug/netcoreapp3.1/Xadrez-Console.AssemblyInfo.cs
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/obj/Debug/netcoreapp3.1/Xadrez-Console.dll
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/obj/Debug/netcoreapp3.1/Xadrez-Console.pdb
+/home/ronaldo/Área de Trabalho/Jogo de Xadrez/Xadrez-Console/obj/Debug/netcoreapp3.1/Xadrez-Console.genruntimeconfig.cache
